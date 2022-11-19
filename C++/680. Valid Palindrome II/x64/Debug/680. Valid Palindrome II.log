@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\programme\l2p\C++\680. Valid Palindrome II\Source.cpp(15,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\programme\l2p\C++\680. Valid Palindrome II\Source.cpp(67,39): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  680. Valid Palindrome II.vcxproj -> E:\programme\l2p\C++\680. Valid Palindrome II\x64\Debug\680. Valid Palindrome II.exe

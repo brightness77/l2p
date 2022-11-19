@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\programme\l2p\C++\Permutations\main.cpp(25,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\programme\l2p\C++\Permutations\main.cpp(48,67): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Permutations.vcxproj -> E:\programme\l2p\C++\Permutations\x64\Debug\Permutations.exe

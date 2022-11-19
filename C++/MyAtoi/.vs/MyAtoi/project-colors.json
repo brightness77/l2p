@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26fce608-20e6-41c5-9d66-a88f331df65e": {
+      "ProjectGuid": "26fce608-20e6-41c5-9d66-a88f331df65e",
+      "DisplayName": "MyAtoi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

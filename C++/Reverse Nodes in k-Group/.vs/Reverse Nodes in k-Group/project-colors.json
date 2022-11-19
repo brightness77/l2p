@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2f2f35d-adb8-4403-95e7-10607518aaf7": {
+      "ProjectGuid": "a2f2f35d-adb8-4403-95e7-10607518aaf7",
+      "DisplayName": "Reverse Nodes in k-Group",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

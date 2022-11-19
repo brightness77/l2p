@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\programme\l2p\C++\45. Jump Game II\Source.cpp(62,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  45. Jump Game II.vcxproj -> E:\programme\l2p\C++\45. Jump Game II\x64\Debug\45. Jump Game II.exe

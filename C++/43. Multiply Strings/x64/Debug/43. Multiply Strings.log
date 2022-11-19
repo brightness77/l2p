@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\programme\l2p\C++\43. Multiply Strings\main.cpp(72,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\programme\l2p\C++\43. Multiply Strings\main.cpp(102,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  43. Multiply Strings.vcxproj -> E:\programme\l2p\C++\43. Multiply Strings\x64\Debug\43. Multiply Strings.exe

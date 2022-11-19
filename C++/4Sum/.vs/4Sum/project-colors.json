@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a1d59cd-26e2-46bd-8857-8696d25b643c": {
+      "ProjectGuid": "2a1d59cd-26e2-46bd-8857-8696d25b643c",
+      "DisplayName": "4Sum",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

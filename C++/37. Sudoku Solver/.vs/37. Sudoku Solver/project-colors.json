@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "757bf7c9-e522-448a-b3aa-7ea796ed4022": {
+      "ProjectGuid": "757bf7c9-e522-448a-b3aa-7ea796ed4022",
+      "DisplayName": "37. Sudoku Solver",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

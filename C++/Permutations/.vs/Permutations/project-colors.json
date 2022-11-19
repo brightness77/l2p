@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dccc53c7-5879-473a-8bb2-fff783efcab2": {
+      "ProjectGuid": "dccc53c7-5879-473a-8bb2-fff783efcab2",
+      "DisplayName": "Permutations",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

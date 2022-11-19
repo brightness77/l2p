@@ -1,0 +1,1 @@
+E:\programme\l2p\C++\30. Substring with Concatenation of All Words\x64\Debug\30. Substring with Concatenation of All Words.exe

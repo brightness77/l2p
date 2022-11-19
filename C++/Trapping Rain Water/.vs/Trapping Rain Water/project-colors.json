@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "995bdca5-3aa3-434a-8eb4-d5369f121703": {
+      "ProjectGuid": "995bdca5-3aa3-434a-8eb4-d5369f121703",
+      "DisplayName": "Trapping Rain Water",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

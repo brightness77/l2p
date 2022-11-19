@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\programme\l2p\C++\Valid Number\main.cpp(82,23): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\programme\l2p\C++\Valid Number\main.cpp(86,23): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  Valid Number.vcxproj -> E:\programme\l2p\C++\Valid Number\x64\Debug\Valid Number.exe
